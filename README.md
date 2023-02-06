@@ -12,7 +12,7 @@ In your Sylius project
 Stop your Sylius
 Run this command to clean your cache
 
-bash```
+```bash
 php bin/console cache:clear
 ```
 

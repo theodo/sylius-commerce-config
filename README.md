@@ -17,3 +17,6 @@ php bin/console cache:clear
 ```
 
 Restart your Sylius
+```bash
+symfony serve
+```

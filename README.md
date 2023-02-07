@@ -10,6 +10,7 @@ In your Sylius project
 3. replace the `index` file in your public folder
 
 Stop your Sylius. 
+
 Run this command to clean your cache
 
 ```bash

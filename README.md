@@ -9,7 +9,7 @@ In your Sylius project
 2. copy the `api_resources` folder in yout config folder
 3. replace the `index` file in your public folder
 
-Stop your Sylius
+Stop your Sylius. 
 Run this command to clean your cache
 
 ```bash

@@ -48,6 +48,7 @@ and license information, please view the LICENSE
         <attribute name="updatedAt">
             <group>admin:product:read</group>
             <group>shop:product:read</group>
+            <group>shop:cart:read</group>
         </attribute>
         <attribute name="translations">
             <group>admin:product:create</group>
@@ -87,6 +88,7 @@ and license information, please view the LICENSE
         <attribute name="variants">
             <group>admin:product:read</group>
             <group>shop:product:read</group>
+            <group>shop:cart:read</group>
         </attribute>
         <attribute name="averageRating">
             <group>shop:product:read</group>

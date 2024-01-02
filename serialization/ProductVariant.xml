@@ -55,5 +55,9 @@ and license information, please view the LICENSE
             <group>shop:product:read</group>
             <group>shop:cart:read</group>
         </attribute>
+        <attribute name="inStock">
+            <group>shop:product_variant:read</group>
+            <group>shop:product:read</group>
+        </attribute>
     </class>
 </serializer>
